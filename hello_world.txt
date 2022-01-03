@@ -1,6 +1,8 @@
-Here we are leraning about
+Here we are learning about
 git add for staging
 git commit -m for commiting
-git mv file1 file2
+git mv file1 file2 for change the names of the files
 git status to check the status of the operations
+git push to see to push the modification of the file in github
+git log to see the actions done
 end
